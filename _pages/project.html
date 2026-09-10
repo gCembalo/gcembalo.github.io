@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Personal Project"
+permalink: /project/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>I collect in this page all my personal project.</p>
+
+{% for post in site.project %}
+  {% include archive-single.html %}
+{% endfor %}
