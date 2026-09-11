@@ -22,6 +22,8 @@ Please visit the [about](/why/) section to read why this page exists and what my
 
 ### What you will find here 
 
+Remember that everything you find on this page is material written by a student to help, first and foremost, himself and (hopefully) others. Do not take these notes too seriously; they are not official material. <br>
+
 As I said, this is my personal space where I share my notes or projects related to my university journey. On the [lecture notes](/notes/) page, you can find all my notes from the MSc in *Theoretical Physics* lectures (in [this file](/files/cv/CVtheoretical.pdf) there is the list), and some materials from the BSc in *Physics*. On the [exercises](/exercises/) page, you can find some calculations, tutoring materials, or random exercises from some BSc and MSc courses; there is also a section dedicated to the [formulary](/formulary/). In the page [personal project](/project/), you can see some of my experiments and projects; there are all my LaTeX template, which were useful not only for my lecture notes, but also for my thesis, beamer presentations, and some application to summer schools and other events. The last page is called [about](/why/) and it contains all the information related to why I created this page, how I suggest using it, and why I strongly believe that knowledge should be free; have a look at it.
 
 <!-- In [cv](/files/cv/cv.pdf), you can find my resume.-->
